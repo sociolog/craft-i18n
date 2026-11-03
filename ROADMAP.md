@@ -1,6 +1,6 @@
 # craft-i18n roadmap
 
-> **Last updated:** 2026-11-02 · **Change:** minor (stage 4, 14 compounding Language packs unhidden)
+> **Last updated:** 2026-11-03 · **Change:** patch (Serbian spelling from sociolog/serbian-dictionaries 1.0.1)
 
 Shared translations for the storytold Crafting Apps: one catalog per locale for shared strings,
 one per app, checked in CI and embedded by each app at build time. Vocabulary is in
@@ -98,3 +98,4 @@ As surveyed on 2026-10-16 (VectorCraft recounted 2026-10-18). Locale counts excl
 | 2026-11-01 | patch | `en-variants.txt`: `judgment`/`judgement` (and `-al`) right in every English, now that each English checks only its own SCOWL dictionary (craft-libs#483 review) |
 | 2026-11-01 | minor | Milestone 4 phase 3 follow-up: ar, be, ca, ca-valencia, cy, el, fr, he, hy, id, is, ka, lv, mk, sk, sr, sr-latn, tr, af, ko, gl unhidden (61 published, 16 hidden, 3 Excluded); hidden reasons name the current compounding gaps; gl check word fixed (gl now published); Moby `en-us.dic` loses typos teh, abd, nad, ur, u, r; licence file names checked as the consumer does; craft-proof dev-dependency pinned at storytold/craft-libs `8f16fe5a` (the restacked #485 stack top), still valid once #482–#490 merge with merge commits |
 | 2026-11-02 | minor | Milestone 4 phase 3, compounding: da, de, de-at, de-ch, eo, et, fa, hr, hu, nb, nl, nn, sv, sv-fi unhidden (75 published, 2 hidden, 3 Excluded; mn stays hidden: suggestions take 200–580 ms over its 12,066 affix rules; th stays hidden: craft-proof splits words only at spaces and punctuation, so a Thai sentence would be checked as one word); needs craft-proof flag-based compounding (craft-libs #497, merged at `47c9f625`); de, de-at, de-ch check words now capitalised nouns and et, nb, nn have real misspellings, each checked with the hunspell 1.7.5 CLI; nb and nn hyphenate with hyph-no.tex (their own files hold only exceptions) |
+| 2026-11-03 | patch | sr and sr-latn spelling from sociolog/serbian-dictionaries 1.0.1 (`6de0a87`) instead of LibreOffice's `sr/`: the same dictionary with its errors corrected; check words for both |

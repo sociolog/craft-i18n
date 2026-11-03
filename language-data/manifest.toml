@@ -3396,10 +3396,10 @@ class = "Download-only"
 [[file]]
 locale = "sr"
 kind = "spelling-aff"
-url = "https://raw.githubusercontent.com/LibreOffice/dictionaries/4f1df64b2e8e14751aa7c2205d170ca016071315/sr/sr.aff"
-commit = "4f1df64b2e8e14751aa7c2205d170ca016071315"
-sha256 = "068bd94a48136ceb577a5a794097024af6ab7fbd82a6f75cad0531cc3bb92e0a"
-size = 901060
+url = "https://raw.githubusercontent.com/sociolog/serbian-dictionaries/6de0a87233b664d2cf3e61ae64ae43e32234e137/sr_Cyrl_RS/sr_Cyrl_RS.aff"
+commit = "6de0a87233b664d2cf3e61ae64ae43e32234e137"
+sha256 = "0df9f6b8fffc234e3a63ecd0e07484079d693d96a78a6e687aea51968561d506"
+size = 839963
 licence = "MPL-2.0"
 class = "Embeddable"
 name = "Српски"
@@ -3407,10 +3407,10 @@ name = "Српски"
 [[file]]
 locale = "sr"
 kind = "spelling-dic"
-url = "https://raw.githubusercontent.com/LibreOffice/dictionaries/4f1df64b2e8e14751aa7c2205d170ca016071315/sr/sr.dic"
-commit = "4f1df64b2e8e14751aa7c2205d170ca016071315"
-sha256 = "48f4590eb63c2337a53c5a3b89b9071a80ee0d13d786c639a66744ce53803c20"
-size = 5878745
+url = "https://raw.githubusercontent.com/sociolog/serbian-dictionaries/6de0a87233b664d2cf3e61ae64ae43e32234e137/sr_Cyrl_RS/sr_Cyrl_RS.dic"
+commit = "6de0a87233b664d2cf3e61ae64ae43e32234e137"
+sha256 = "110c0dd5d964f7bdfde1e42342e570a9f3889debb7c8e4cabecf4706292dadd8"
+size = 5659005
 licence = "MPL-2.0"
 class = "Embeddable"
 
@@ -3427,10 +3427,10 @@ class = "Embeddable"
 [[file]]
 locale = "sr"
 kind = "licence"
-url = "https://raw.githubusercontent.com/LibreOffice/dictionaries/4f1df64b2e8e14751aa7c2205d170ca016071315/sr/README.txt"
-commit = "4f1df64b2e8e14751aa7c2205d170ca016071315"
-sha256 = "2a38abe899cefc84dcf40f7f242d36560542bceab062d4bed2da18f1db19c8b1"
-size = 798
+url = "https://raw.githubusercontent.com/sociolog/serbian-dictionaries/6de0a87233b664d2cf3e61ae64ae43e32234e137/README.md"
+commit = "6de0a87233b664d2cf3e61ae64ae43e32234e137"
+sha256 = "3df0fd43eb4a88b3326fc862ebf6b8dd5270aa46db0c375c8cc7fe96b9a93b93"
+size = 5870
 licence = "MPL-2.0"
 class = "Embeddable"
 
@@ -3439,10 +3439,10 @@ class = "Embeddable"
 [[file]]
 locale = "sr-latn"
 kind = "spelling-aff"
-url = "https://raw.githubusercontent.com/LibreOffice/dictionaries/4f1df64b2e8e14751aa7c2205d170ca016071315/sr/sr-Latn.aff"
-commit = "4f1df64b2e8e14751aa7c2205d170ca016071315"
-sha256 = "38b99cae0005ff20b015d829580a0f3533ffabc1f889a54144a74e90069548e6"
-size = 684540
+url = "https://raw.githubusercontent.com/sociolog/serbian-dictionaries/6de0a87233b664d2cf3e61ae64ae43e32234e137/sr_Latn_RS/sr_Latn_RS.aff"
+commit = "6de0a87233b664d2cf3e61ae64ae43e32234e137"
+sha256 = "3f97e30efa254cf1a8729b819b9c95bee6aa4dcbd0e813ebb081691594644492"
+size = 627250
 licence = "MPL-2.0"
 class = "Embeddable"
 name = "Srpski (latinica)"
@@ -3450,10 +3450,10 @@ name = "Srpski (latinica)"
 [[file]]
 locale = "sr-latn"
 kind = "spelling-dic"
-url = "https://raw.githubusercontent.com/LibreOffice/dictionaries/4f1df64b2e8e14751aa7c2205d170ca016071315/sr/sr-Latn.dic"
-commit = "4f1df64b2e8e14751aa7c2205d170ca016071315"
-sha256 = "f51950195e5bd0aaf155d3488517d4dbc4c8fbc772ecbafbf9131e69a257b1ff"
-size = 3817505
+url = "https://raw.githubusercontent.com/sociolog/serbian-dictionaries/6de0a87233b664d2cf3e61ae64ae43e32234e137/sr_Latn_RS/sr_Latn_RS.dic"
+commit = "6de0a87233b664d2cf3e61ae64ae43e32234e137"
+sha256 = "8ce59c6083eee897294e64096b79efd9d3ffae91f1285b00d762862bd137cda6"
+size = 3584321
 licence = "MPL-2.0"
 class = "Embeddable"
 
@@ -3470,10 +3470,10 @@ class = "Embeddable"
 [[file]]
 locale = "sr-latn"
 kind = "licence"
-url = "https://raw.githubusercontent.com/LibreOffice/dictionaries/4f1df64b2e8e14751aa7c2205d170ca016071315/sr/README.txt"
-commit = "4f1df64b2e8e14751aa7c2205d170ca016071315"
-sha256 = "2a38abe899cefc84dcf40f7f242d36560542bceab062d4bed2da18f1db19c8b1"
-size = 798
+url = "https://raw.githubusercontent.com/sociolog/serbian-dictionaries/6de0a87233b664d2cf3e61ae64ae43e32234e137/README.md"
+commit = "6de0a87233b664d2cf3e61ae64ae43e32234e137"
+sha256 = "3df0fd43eb4a88b3326fc862ebf6b8dd5270aa46db0c375c8cc7fe96b9a93b93"
+size = 5870
 licence = "MPL-2.0"
 class = "Embeddable"
 
