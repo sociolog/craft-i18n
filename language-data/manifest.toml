@@ -3396,23 +3396,25 @@ class = "Download-only"
 [[file]]
 locale = "sr"
 kind = "spelling-aff"
-url = "https://raw.githubusercontent.com/sociolog/serbian-dictionaries/6de0a87233b664d2cf3e61ae64ae43e32234e137/sr_Cyrl_RS/sr_Cyrl_RS.aff"
-commit = "6de0a87233b664d2cf3e61ae64ae43e32234e137"
-sha256 = "0df9f6b8fffc234e3a63ecd0e07484079d693d96a78a6e687aea51968561d506"
-size = 839963
+url = "https://raw.githubusercontent.com/sociolog/serbian-dictionaries/640dedafa1be4df3ad43961f6c079ddcef72071d/sr_Cyrl_RS/sr_Cyrl_RS.aff"
+commit = "640dedafa1be4df3ad43961f6c079ddcef72071d"
+sha256 = "58c23e87eb593457e9fc9cb3158f53cf0f9394197c377bc984af5f3094d4fbaf"
+size = 863833
 licence = "MPL-2.0"
 class = "Embeddable"
+note = "Built on LibreOffice's sr/ at 4f1df64, whose README.txt says that Milutin Smiljanic's dictionary 'is released under GNU LGPL version 3 or later / MPL version 2 or later / GNU GPL version 3 or later'; the corrections are offered under the same terms (README.md, Licences, at the pinned commit)."
 name = "Српски"
 
 [[file]]
 locale = "sr"
 kind = "spelling-dic"
-url = "https://raw.githubusercontent.com/sociolog/serbian-dictionaries/6de0a87233b664d2cf3e61ae64ae43e32234e137/sr_Cyrl_RS/sr_Cyrl_RS.dic"
-commit = "6de0a87233b664d2cf3e61ae64ae43e32234e137"
-sha256 = "110c0dd5d964f7bdfde1e42342e570a9f3889debb7c8e4cabecf4706292dadd8"
-size = 5659005
+url = "https://raw.githubusercontent.com/sociolog/serbian-dictionaries/640dedafa1be4df3ad43961f6c079ddcef72071d/sr_Cyrl_RS/sr_Cyrl_RS.dic"
+commit = "640dedafa1be4df3ad43961f6c079ddcef72071d"
+sha256 = "a07f16a0084b9fecf9643a0e0ac977aeb3f8f1ea489fcae2a159002dd217f6c9"
+size = 5631042
 licence = "MPL-2.0"
 class = "Embeddable"
+note = "Built on LibreOffice's sr/ at 4f1df64, whose README.txt says that Milutin Smiljanic's dictionary 'is released under GNU LGPL version 3 or later / MPL version 2 or later / GNU GPL version 3 or later'; the corrections are offered under the same terms (README.md, Licences, at the pinned commit)."
 
 [[file]]
 locale = "sr"
@@ -3427,10 +3429,10 @@ class = "Embeddable"
 [[file]]
 locale = "sr"
 kind = "licence"
-url = "https://raw.githubusercontent.com/sociolog/serbian-dictionaries/6de0a87233b664d2cf3e61ae64ae43e32234e137/README.md"
-commit = "6de0a87233b664d2cf3e61ae64ae43e32234e137"
-sha256 = "3df0fd43eb4a88b3326fc862ebf6b8dd5270aa46db0c375c8cc7fe96b9a93b93"
-size = 5870
+url = "https://raw.githubusercontent.com/sociolog/serbian-dictionaries/640dedafa1be4df3ad43961f6c079ddcef72071d/README.md"
+commit = "640dedafa1be4df3ad43961f6c079ddcef72071d"
+sha256 = "622591d8a4dfcaffde4e768fbaacb6383c7ebf534e0f1dcb062714d40195e64e"
+size = 7723
 licence = "MPL-2.0"
 class = "Embeddable"
 
@@ -3439,23 +3441,25 @@ class = "Embeddable"
 [[file]]
 locale = "sr-latn"
 kind = "spelling-aff"
-url = "https://raw.githubusercontent.com/sociolog/serbian-dictionaries/6de0a87233b664d2cf3e61ae64ae43e32234e137/sr_Latn_RS/sr_Latn_RS.aff"
-commit = "6de0a87233b664d2cf3e61ae64ae43e32234e137"
-sha256 = "3f97e30efa254cf1a8729b819b9c95bee6aa4dcbd0e813ebb081691594644492"
-size = 627250
+url = "https://raw.githubusercontent.com/sociolog/serbian-dictionaries/640dedafa1be4df3ad43961f6c079ddcef72071d/sr_Latn_RS/sr_Latn_RS.aff"
+commit = "640dedafa1be4df3ad43961f6c079ddcef72071d"
+sha256 = "f3a018cb7286f56c8f72647272c08d7cddad2cd48dbf5200bd8a4aac2d2699d2"
+size = 647220
 licence = "MPL-2.0"
 class = "Embeddable"
+note = "Built on LibreOffice's sr/ at 4f1df64, whose README.txt says that Milutin Smiljanic's dictionary 'is released under GNU LGPL version 3 or later / MPL version 2 or later / GNU GPL version 3 or later'; the corrections are offered under the same terms (README.md, Licences, at the pinned commit)."
 name = "Srpski (latinica)"
 
 [[file]]
 locale = "sr-latn"
 kind = "spelling-dic"
-url = "https://raw.githubusercontent.com/sociolog/serbian-dictionaries/6de0a87233b664d2cf3e61ae64ae43e32234e137/sr_Latn_RS/sr_Latn_RS.dic"
-commit = "6de0a87233b664d2cf3e61ae64ae43e32234e137"
-sha256 = "8ce59c6083eee897294e64096b79efd9d3ffae91f1285b00d762862bd137cda6"
-size = 3584321
+url = "https://raw.githubusercontent.com/sociolog/serbian-dictionaries/640dedafa1be4df3ad43961f6c079ddcef72071d/sr_Latn_RS/sr_Latn_RS.dic"
+commit = "640dedafa1be4df3ad43961f6c079ddcef72071d"
+sha256 = "0b8fd0ef8275aef4bbc71e2ee2b75af2e764cb51c252a588c4157454c250602d"
+size = 3568328
 licence = "MPL-2.0"
 class = "Embeddable"
+note = "Built on LibreOffice's sr/ at 4f1df64, whose README.txt says that Milutin Smiljanic's dictionary 'is released under GNU LGPL version 3 or later / MPL version 2 or later / GNU GPL version 3 or later'; the corrections are offered under the same terms (README.md, Licences, at the pinned commit)."
 
 [[file]]
 locale = "sr-latn"
@@ -3470,10 +3474,10 @@ class = "Embeddable"
 [[file]]
 locale = "sr-latn"
 kind = "licence"
-url = "https://raw.githubusercontent.com/sociolog/serbian-dictionaries/6de0a87233b664d2cf3e61ae64ae43e32234e137/README.md"
-commit = "6de0a87233b664d2cf3e61ae64ae43e32234e137"
-sha256 = "3df0fd43eb4a88b3326fc862ebf6b8dd5270aa46db0c375c8cc7fe96b9a93b93"
-size = 5870
+url = "https://raw.githubusercontent.com/sociolog/serbian-dictionaries/640dedafa1be4df3ad43961f6c079ddcef72071d/README.md"
+commit = "640dedafa1be4df3ad43961f6c079ddcef72071d"
+sha256 = "622591d8a4dfcaffde4e768fbaacb6383c7ebf534e0f1dcb062714d40195e64e"
+size = 7723
 licence = "MPL-2.0"
 class = "Embeddable"
 
