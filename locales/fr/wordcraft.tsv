@@ -1756,6 +1756,14 @@ template	Letter	Lettre
 	Remove the control once edited	Supprimer le contrôle une fois le contenu modifié
 	Remove the space before the punctuation	Supprimer l’espace avant la ponctuation
 	Remove Watermark	Supprimer le filigrane
+	No watermark	Aucun filigrane
+	Picture watermark	Filigrane image
+	Text watermark	Filigrane texte
+	Select Picture…	Sélectionner une image…
+	Washout	Délavé
+	Semitransparent	Semi-transparent
+	Transparency:	Transparence :
+	Select a picture first.	Sélectionnez d'abord une image.
 	Rename Document	Renommer le document
 	Reopen	Rouvrir
 	Repeat as header row on each page	Répéter en tant que ligne d’en-tête sur chaque page
